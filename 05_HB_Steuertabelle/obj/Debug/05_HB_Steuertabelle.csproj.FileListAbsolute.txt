@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\bin\Debug\05_HB_Steuertabelle.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\bin\Debug\05_HB_Steuertabelle.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\bin\Debug\05_HB_Steuertabelle.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\05_HB_Steuertabelle.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\_05_HB_Steuertabelle.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\_05_HB_Steuertabelle.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\05_HB_Steuertabelle.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\05_HB_Steuertabelle.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\05_HB_Steuertabelle.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\05_HB_Steuertabelle\obj\Debug\05_HB_Steuertabelle.pdb

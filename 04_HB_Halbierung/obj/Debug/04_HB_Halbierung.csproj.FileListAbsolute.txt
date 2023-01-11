@@ -1,0 +1,9 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\bin\Debug\04_HB_Halbierung.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\bin\Debug\04_HB_Halbierung.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\bin\Debug\04_HB_Halbierung.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\obj\Debug\_04_HB_Halbierung.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\obj\Debug\_04_HB_Halbierung.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\obj\Debug\04_HB_Halbierung.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\obj\Debug\04_HB_Halbierung.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\obj\Debug\04_HB_Halbierung.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\04_HB_Halbierung\obj\Debug\04_HB_Halbierung.pdb

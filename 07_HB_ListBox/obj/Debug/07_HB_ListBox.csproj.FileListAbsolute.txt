@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\bin\Debug\07_HB_ListBox.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\bin\Debug\07_HB_ListBox.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\bin\Debug\07_HB_ListBox.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\07_HB_ListBox.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\_07_HB_ListBox.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\_07_HB_ListBox.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\07_HB_ListBox.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\07_HB_ListBox.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\07_HB_ListBox.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\07_HB_ListBox\obj\Debug\07_HB_ListBox.pdb

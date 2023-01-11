@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\bin\Debug\01_HB_ForSchleife.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\bin\Debug\01_HB_ForSchleife.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\bin\Debug\01_HB_ForSchleife.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\01_HB_ForSchleife.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\_01_HB_ForSchleife.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\_01_HB_ForSchleife.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\01_HB_ForSchleife.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\01_HB_ForSchleife.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\01_HB_ForSchleife.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\01_HB_ForSchleife\obj\Debug\01_HB_ForSchleife.pdb

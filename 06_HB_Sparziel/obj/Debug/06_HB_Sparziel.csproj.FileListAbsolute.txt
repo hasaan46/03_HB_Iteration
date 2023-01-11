@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\bin\Debug\06_HB_Sparziel.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\bin\Debug\06_HB_Sparziel.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\bin\Debug\06_HB_Sparziel.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\06_HB_Sparziel.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\_06_HB_Sparziel.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\_06_HB_Sparziel.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\06_HB_Sparziel.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\06_HB_Sparziel.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\06_HB_Sparziel.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\06_HB_Sparziel\obj\Debug\06_HB_Sparziel.pdb

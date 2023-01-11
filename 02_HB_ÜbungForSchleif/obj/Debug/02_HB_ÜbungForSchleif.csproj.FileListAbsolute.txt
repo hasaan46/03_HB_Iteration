@@ -1,0 +1,10 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\bin\Debug\02_HB_ÜbungForSchleif.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\bin\Debug\02_HB_ÜbungForSchleif.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\bin\Debug\02_HB_ÜbungForSchleif.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\02_HB_ÜbungForSchleif.csproj.AssemblyReference.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\_02_HB_ÜbungForSchleif.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\_02_HB_ÜbungForSchleif.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\02_HB_ÜbungForSchleif.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\02_HB_ÜbungForSchleif.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\02_HB_ÜbungForSchleif.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\02_HB_ÜbungForSchleif\obj\Debug\02_HB_ÜbungForSchleif.pdb

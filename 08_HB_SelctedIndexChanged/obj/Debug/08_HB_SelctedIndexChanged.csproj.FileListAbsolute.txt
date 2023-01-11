@@ -1,0 +1,9 @@
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\bin\Debug\08_HB_SelctedIndexChanged.exe.config
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\bin\Debug\08_HB_SelctedIndexChanged.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\bin\Debug\08_HB_SelctedIndexChanged.pdb
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\obj\Debug\_08_HB_SelctedIndexChanged.Form1.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\obj\Debug\_08_HB_SelctedIndexChanged.Properties.Resources.resources
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\obj\Debug\08_HB_SelctedIndexChanged.csproj.GenerateResource.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\obj\Debug\08_HB_SelctedIndexChanged.csproj.CoreCompileInputs.cache
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\obj\Debug\08_HB_SelctedIndexChanged.exe
+\\FBOEWFS0001.FBOE.EDU.SFFM\HomeS$\ha.barak\Documents\Visual Studio 2019\Projekte\03_HB_Iteration\08_HB_SelctedIndexChanged\obj\Debug\08_HB_SelctedIndexChanged.pdb
